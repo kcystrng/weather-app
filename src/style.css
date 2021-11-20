@@ -20,6 +20,8 @@ li {
   padding: 0;
   color: #4f323b;
   font-size: 15px;
+}
+li::first-letter {
   text-transform: capitalize;
 }
 
